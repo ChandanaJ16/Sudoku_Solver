@@ -69,8 +69,8 @@ void print_mesh(int mesh[9][9]){ //if image is taken from python?
 			else{
 				cout<<mesh[i][j];
 			}
-			cout<<SPACE;
-			cout<<"|";
+			
+			cout<<" | ";
 		}
 	}
 		cout<<endl<<DASH<<endl<<endl;
