@@ -8,6 +8,7 @@
    git clone https://github.com/ChandanaJ16/Sudoku_Solver.git
    ```
 2. Edit the matrix in main function with your unsolved sudoku, put "0" in empty/unsolved places and run the code.
+
 Ex:
 
 ![Screenshot from 2021-07-09 00-21-12](https://user-images.githubusercontent.com/65539515/124977085-b349e480-e04d-11eb-94e2-1fd34b1043bf.png)
